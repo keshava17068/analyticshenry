@@ -6,3 +6,6 @@ Created on Sun Sep  1 15:04:12 2019
 """
 
 x=3
+y=9
+for i in range (2):
+    print(x+y)
